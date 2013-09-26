@@ -204,8 +204,6 @@
 				<dict>
 					<key>alarmDate</key>
 					<date>2013-09-25T23:50:10Z</date>
-					<key>alarmEmail</key>
-					<string>me@kevinsuttle.com</string>
 					<key>alarmFile</key>
 					<string>/Applications/Calendars.app</string>
 					<key>alarmKickoff</key>
